@@ -1,16 +1,15 @@
-## Hi there 👋
+# nnapapa
 
-<!--
-**nnapapa/nnapapa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Solving problems on [AtCoder](https://atcoder.jp/users/nnapapa), mainly in C++.
 
-Here are some ideas to get you started:
+This account is where I keep my competitive programming solutions and learning notes.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Main repository: [atcoder](https://github.com/nnapapa/atcoder) — Submitted solutions for AtCoder, Codeforces, and paiza
+
+---
+
+[AtCoder](https://atcoder.jp/users/nnapapa) を中心に、競技プログラミングに取り組んでいます。主にC++を使用しています。
+
+このアカウントは、競プロの精進記録や学習用のコードを公開する場として使っています。
+
+主なリポジトリ: [atcoder](https://github.com/nnapapa/atcoder) — AtCoder / Codeforces / paiza の提出コード
